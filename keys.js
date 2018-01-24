@@ -1,10 +1,10 @@
 console.log('this is loaded');
 
 var twitterKeys = {
-  consumer_key: 'oWz3w1ib4rMPhjB29KM8I7Qzd',
-  consumer_secret: "GSt6EprRCjkxJz48OYDHew0dd960UXsDxJ9B6KbP7bJNIwJss5",
-  access_token_key: '4110317593-aLVTOI0OL62t8YfILMTPzPIwYDiz0nXPdmyYM9o',
-  access_token_secret: 'yCyDFYxCAOIYP7cw1HFhQfwJhD5yjzdpXKBWX5FhIguLL'
+  consumer_key: 'fZAeRO4XHZ74IemIz8GnwBi2H',
+  consumer_secret: "gqUQuOY5qRNhTkDxJCpeuKAbEwZ4jqOd3JayHn3x4KjXMkYjTN",
+  access_token_key: '955669962852454401-qy6bbBLOYS20edieLR7QOWgxKYfV0WN',
+  access_token_secret: 'eDSbBjZsxuIBNwlVA6T56lm1DB0llPhvFAN8ReREYDXHr'
 }
 
 module.exports = twitterKeys; //corresponds to require in liri.js
